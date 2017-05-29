@@ -1,0 +1,40 @@
+/* add your CSS here */
+body {
+    max-width: 340px;
+    font-family: 'Khula', sans-serif;
+    margin: 15px;
+}
+
+.outline {
+    border: 2px solid #dbdbdb;
+    -webkit-box-shadow: 8px 8px 5px #dbdbdb;
+    -moz-box-shadow: 8px 8px 5px #dbdbdb;
+    box-shadow: 8px 8px 5px #dbdbdb;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h3 {
+    color: #3e3e3e;
+    letter-spacing: 0.3px;
+}
+
+.inner-box {
+     border: 2px solid #dbdbdb;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 12px 0;
+} 
+
+.interesting-facts {
+    font-style: italic;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0; 
+}
+
+ul span {
+    font-weight: bold;
+}
