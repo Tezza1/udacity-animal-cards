@@ -1,11 +1,11 @@
 /* add your CSS here */
 body {
     max-width: 340px;
-    font-family: 'Khula', sans-serif;
+    font-family: "Khula", sans-serif;
     margin: 15px;
 }
 
-.outline {
+.card-outline {
     border: 2px solid #dbdbdb;
     -webkit-box-shadow: 8px 8px 5px #dbdbdb;
     -moz-box-shadow: 8px 8px 5px #dbdbdb;
@@ -19,7 +19,7 @@ h3 {
     letter-spacing: 0.3px;
 }
 
-.inner-box {
+.card-inner-box {
      border: 2px solid #dbdbdb;
     padding-left: 15px;
     padding-right: 15px;
